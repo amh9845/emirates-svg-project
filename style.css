@@ -57,8 +57,8 @@ svg {
 }
 
 .shaking {
-  animation: shake 0.7s ease-in-out;
-  animation-iteration-count: 10;
+  animation: shake 1.5s ease-in-out;
+  animation-iteration-count: 5;
 }
 
 @keyframes fly {
